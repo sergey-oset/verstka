@@ -1,0 +1,28 @@
+body {
+    font-size: 22px;
+    line-height: 34px;
+}
+
+nav,
+header {
+    background-color: #fd739c;
+    color: #ffffff;
+}
+
+h1,
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 90px 0 50px;
+}
+
+h1 {
+    line-height: 1.15em;
+    margin: 0.67em;
+}
+
+#whoami {
+    padding-top: 40px;
+}
